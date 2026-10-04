@@ -30,5 +30,5 @@ If you prefer to run this project locally, you will need Node.js and npm install
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/THE-KNERD/financebunny.git
+   git clone https://github.com/KVIZXN/financebunny.git
    cd financebunny
